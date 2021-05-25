@@ -1,7 +1,7 @@
 ---
 title: 🥕 redcarrot의 기록, 작은 도서관
-date: 
-lastmod: 
+date: 2021-05-25 08:35:18
+lastmod: 2021-05-25 08:35:18
 comments: true
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fredcarrot01.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
