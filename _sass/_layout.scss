@@ -89,7 +89,7 @@ header {
 	right: 0;
 	overflow-x: hidden;
 	z-index: 1;
-	background-color:  #38542d;   // $nav-background-color
+	background-color:  #4c733d;   // $nav-background-color #38542d
 	
 	ul {
 		padding: 0;
@@ -100,7 +100,7 @@ header {
 		padding: $emblem-vertical-padding $emblem-horizontal-padding;
 		height: $nav-header-height;
 		box-sizing: border-box;
-		background-color:  #38542d; //$brand-colour
+		background-color:  #4c733d; //$brand-colour , #38542d
 		color: #fff;
 		margin: 0;
 		font-size: 1.7rem;
