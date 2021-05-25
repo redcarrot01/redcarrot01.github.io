@@ -4,7 +4,7 @@ date:
 lastmod: 
 comments: true
 ---
-[![Hits](https://camo.githubusercontent.com/e7153a6b2e26d8d62e2249c5a638c39059969b68b13487f3f43750b813ccfb56/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470732533412532462532466769746875622e636f6d253246646f6f7269736f70656e253246646576656c6f706572732d6c696272617279)](https://redcarrot01.github.io)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fredcarrot01.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 📚 CS 지식과 메모, 책 리뷰 기록하기 위해 만든 작은 공간 
 
