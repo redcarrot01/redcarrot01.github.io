@@ -1,23 +1,20 @@
 ---
-title: 취준생에서 가치 있는 개발자가 되기까지 💪
-date: 2020-06-04 00:30:29
-lastmod: 2020-08-18 00:30:29
+title: 🥕 redcarrot의 기록, 작은 도서관
+date: 
+lastmod: 
 comments: true
 ---
+[![Hits](https://camo.githubusercontent.com/e7153a6b2e26d8d62e2249c5a638c39059969b68b13487f3f43750b813ccfb56/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470732533412532462532466769746875622e636f6d253246646f6f7269736f70656e253246646576656c6f706572732d6c696272617279)](https://redcarrot01.github.io)
 
-<!-- HitCount: http://hits.dwyl.io/ -->
+📚 CS 지식과 메모, 책 리뷰 기록하기 위해 만든 작은 공간 
 
-[![author](https://img.shields.io/badge/author-doorisopen-007ec6.svg?style=flat-square)](https://github.com/doorisopen/developers-library)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoorisopen%2Fdevelopers-library)](https://hits.seeyoufarm.com)
+이곳은 저의 지식 창고,  서브 블로그입니다. 
 
-<!-- [![HitCount](http://hits.dwyl.com/doorisopen/https://githubcom/doorisopen/developers-library.svg)](http://hits.dwyl.com/doorisopen/https://githubcom/doorisopen/developers-library) -->
+주로 CS 지식, 관심사, 다양한 책 리뷰를 기록할 계획입니다.
 
-👨🏻‍💻신입 개발자를 위한 전공 지식 & 유용한 정보 수집 저장소📚
 
-안녕하세요 이곳은 CS(Computer Science)지식을 정리하고 기록하려고 만든 저장소 입니다.
 
-📢저장소는 [Github](https://github.com/doorisopen/developers-library/)입니다.  
+💻 메인 블로그는 [여기](https://velog.io/@redcarrot01)를 클릭해주세요.
 
-📢잘못된 내용은 [Issues](https://github.com/doorisopen/developers-library/issues)와 [PR](https://github.com/doorisopen/developers-library/pulls)로 알려주세요
+메인 블로그는 기술 블로그로, 알고리즘, 프로젝트 중심으로 기록합니다.
 
-![work]({{ site.baseurl }}/images/work.jpg)
