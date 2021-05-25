@@ -65,6 +65,7 @@ body {
 			left: $nav-width;
 			right: 0;
 			background-color: $content-background-color;
+
 		}
 	}
 }
@@ -88,7 +89,7 @@ header {
 	right: 0;
 	overflow-x: hidden;
 	z-index: 1;
-	background-color: $nav-background-color;
+	background-color:  #38542d;   // $nav-background-color
 	
 	ul {
 		padding: 0;
@@ -99,7 +100,7 @@ header {
 		padding: $emblem-vertical-padding $emblem-horizontal-padding;
 		height: $nav-header-height;
 		box-sizing: border-box;
-		background-color: $brand-colour;
+		background-color:  #38542d; //$brand-colour
 		color: #fff;
 		margin: 0;
 		font-size: 1.7rem;
@@ -266,7 +267,7 @@ nav > ul {
 	}
 	
 	> a {
-		color: #c8e1ff;
+		color: #ddeddd; //#c8e1ff
 		text-decoration: none;
 		font-size: 1.4rem;
 		padding: $space / 2 0 $space / 2 $space * 2;
@@ -276,7 +277,7 @@ nav > ul {
 	&.current > a,
 	> a:active,
 	> a:hover {
-		color: #c8e1ff;
+		color: #ddeddd; //  #c8e1ff
 		font-weight: bold;
 		padding: $space / 2 0 $space / 2 $space * 2;
 	}
@@ -304,7 +305,7 @@ nav > ul {
 
 .current,
 .collapse.show {
-	background-color: #032f62;
+	background-color:  #38542d; //#032f62
 }
 
 .settings-panel-example {
