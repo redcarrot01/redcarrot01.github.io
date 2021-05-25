@@ -1,4 +1,4 @@
-
+## Commit Rule
 
 * __File Name Rule :__ 날짜-주제-제목
   + __ex) 2020-02-15-web-server-and-was__
@@ -13,7 +13,11 @@
 > * __Style:__ themes, css 등 UI 추가/변경/삭제 등 <br/>
 > * __Docs:__ 설정 파일 및 README 내용 추가/변경/삭제
 
-0525
 
-22
 
+## to do list
+
+- 댓글달기..(disqus html, config 등등 수정해야함)
+- 다른 포스트 다 삭제 & 내 포스트 넣기
+- 당근저장소 이름 변경 및 글자색 바꾸기
+- 이것저것 커스텀 하기 
