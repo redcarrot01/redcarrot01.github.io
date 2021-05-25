@@ -12,7 +12,7 @@ comments: true
 
 주로 CS 지식, 관심사, 다양한 책 리뷰를 기록할 계획입니다.
 
-
+<br>
 
 💻 메인 블로그는 [여기](https://velog.io/@redcarrot01)를 클릭해주세요.
 
