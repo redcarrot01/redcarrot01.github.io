@@ -1,10 +1,10 @@
 ## Commit Rule
 
 * __File Name Rule :__ 날짜-주제-제목
-  + __ex) 2020-02-15-web-server-and-was__
+  + __ex) 2021-05-25-web-server-and-was__
 * __Commit Convention Rule :__ [상태] 날짜 주제 내용
   + __상태 :__ Add/Update/Style/Docs
-  + __날짜 :__ 2020-02-15
+  + __날짜 :__ 2021-05-25
   + __주제 :__ Web/Algorithm...
   + __ex) [Add] 2020-02-15 Web server and was__
 
@@ -15,7 +15,7 @@
 
 
 
-## to do list
+## To do list
 
 - 댓글달기..(disqus html, config 등등 수정해야함)
 - 다른 포스트 다 삭제 & 내 포스트 넣기
