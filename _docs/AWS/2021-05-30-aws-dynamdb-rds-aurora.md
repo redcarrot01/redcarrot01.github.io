@@ -1,9 +1,9 @@
 ---
 title: "AWS DynamDB, RDS, Aurora"
 category: AWS
-date: 2021-05-30 01 : 38 : 47
+date: 2021-05-30 01:38:47
 comments: true
-order: 5
+order: 1
 ---
 
 ## AWS DynamoDB
