@@ -355,7 +355,7 @@ h3 + .warning {
 
 h4 code {
 	background: $nav-background-color;
-	color: $content-color;
+	color: #9c5003; // $content-color
 	background-color: transparent;
 	font-weight: 700;
 	padding: 0;
@@ -368,7 +368,7 @@ h4 svg {
 	margin-right: 6px;
 	position: relative;
 	top: -2px;
-	fill: #9c5003; //  #9c5003 #2E2E2E
+	fill: #2E2E2E; //  #9c5003 #2E2E2E
 	height: 23px;
 }
 
