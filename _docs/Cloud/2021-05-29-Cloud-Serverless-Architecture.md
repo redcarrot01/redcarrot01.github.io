@@ -24,7 +24,7 @@ order: 1
 >
 > - 함수를 나노 단위로 쪼개서 실행횟수 만큼 비용 지불
 >
-> use case 
+> **use case** 
 >
 > - 크롤러
 > - 로그분석/모니터링 (클라우드왓치)
@@ -79,8 +79,8 @@ order: 1
 
 ## 참고했습니다.
 
-[https://velopert.com/3543](https://velopert.com/3543)
+- [https://velopert.com/3543](https://velopert.com/3543)
 
-[https://colinch4.github.io/2021-01-15/8%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98_02_%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0/](https://colinch4.github.io/2021-01-15/8%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98_02_%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0/)
+- [https://colinch4.github.io/2021-01-15/8%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98_02_%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0/](https://colinch4.github.io/2021-01-15/8%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98_02_%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0/)
 
-[https://www.samsungsds.com/kr/insights/1232763_4627.html](https://www.samsungsds.com/kr/insights/1232763_4627.html)
+- [https://www.samsungsds.com/kr/insights/1232763_4627.html](https://www.samsungsds.com/kr/insights/1232763_4627.html)
