@@ -355,7 +355,7 @@ h3 + .warning {
 
 h4 code {
 	background: $nav-background-color;
-	color: #9c5003; // $content-color
+	color: $content-color; // $content-color
 	background-color: transparent;
 	font-weight: 700;
 	padding: 0;
