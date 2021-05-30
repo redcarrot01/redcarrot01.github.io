@@ -189,7 +189,7 @@ header::-webkit-scrollbar { //scroll bar
 	h2,
 	h3 {
 		margin: 0;
-		line-height: 1.2;
+		//line-height: 1.2;
 		letter-spacing: -1px;
 	}
 
@@ -319,7 +319,7 @@ nav > ul {
 		margin: 0;
 		padding: 0;
 		font-size: 0;
-		line-height: 1;
+		line-height: 0.5;
 		border-radius: 2px;
 		overflow: hidden;
 	}
@@ -360,7 +360,7 @@ h4 code {
 	font-weight: 700;
 	padding: 0;
 	font-size: 1.1em;
-	line-height: 1;
+	line-height: 0.5;
 }
 
 h4 svg {
