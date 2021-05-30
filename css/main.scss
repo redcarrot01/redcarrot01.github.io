@@ -6,7 +6,7 @@ sitemap: false
 $baseurl: "{{ site.baseurl }}";
 $body-background-color: #2B2E31;
 
-$content-max-width: 1000px;
+$content-max-width: 800px;
 $content-color: #222;
 $content-background-color: #fff;
 
@@ -18,7 +18,7 @@ $nav-header-height: 60px;
 $nav-background-color: #38542d;
 $nav-width: 280px;
 
-$space: 20px;
+$space: 10px;
 
 $mobile-break: 700px;
 $full-width-break: $nav-width + ($space * 4) + $content-max-width;
