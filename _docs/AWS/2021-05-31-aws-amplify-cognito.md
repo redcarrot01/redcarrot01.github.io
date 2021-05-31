@@ -20,21 +20,21 @@ order: 6
 
 **개발** : Amplify를 이용하면 full-stack 웹과 모바일의 백엔드를 개발할 수 있다.
 
- Amplify UI나 CLI 통해서 백엔드 설정 -> Amplify 라이브러리를 웹/앱 백엔드와 연결 -> 통합
+Amplify UI나 CLI 통해서 백엔드 설정 -> Amplify 라이브러리를 웹/앱 백엔드와 연결 -> 통합
 
-<img src="C:\Users\yujin\AppData\Roaming\Typora\typora-user-images\image-20210531150142385.png" alt="image-20210531150142385" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/38436013/120157472-08fcc700-c22e-11eb-854e-251f185589a5.png" alt="image" style="zoom:67%;" />
 
 **제공** : 정적 페이지 호스팅
 
 amplify 콘솔에 깃에 있는 소스나 파일 업로드 -> 빌드 셋팅 -> amplify 콘솔에서 배포
 
-<img src="C:\Users\yujin\AppData\Roaming\Typora\typora-user-images\image-20210531150511518.png" alt="image-20210531150511518" style="zoom: 80%;" />
+<img src="https://user-images.githubusercontent.com/38436013/120157499-0e5a1180-c22e-11eb-9044-2be9fb34d821.png" alt="image" style="zoom:67%;" />
 
 **관리** : 사용자와 앱 관리
 
 Amplify 어드민에 접근 권한을 준다 -> 사용자와 컨텐츠 관리한다 
 
-<img src="C:\Users\yujin\AppData\Roaming\Typora\typora-user-images\image-20210531150740343.png" alt="image-20210531150740343" style="zoom: 80%;" />
+<img src="https://user-images.githubusercontent.com/38436013/120157523-13b75c00-c22e-11eb-85ab-eb2c8bda2b6e.png" alt="image" style="zoom:67%;" />
 
 #### 장점
 
@@ -44,7 +44,7 @@ Amplify 어드민에 접근 권한을 준다 -> 사용자와 컨텐츠 관리한
 
 #### Amplify와 연관된 서비스
 
-<img src="C:\Users\yujin\AppData\Roaming\Typora\typora-user-images\image-20210531145241676.png" alt="image-20210531145241676" style="zoom: 67%;" />
+<img src="https://user-images.githubusercontent.com/38436013/120157433-faaeab00-c22d-11eb-9bca-61210587732b.png" alt="image" style="zoom:67%;" />
 
 - **AWS AppSync** :  GraphQL을 사용하여 애플리케이션에서 필요로 하는 데이터를 가져올 수 있도록 하는 관리형 서비스, 오프라인 상태에서도 로컬로 데이터 액세스 가능, 온라인 상태가 되면 데이터 동기화 해주는 기능을 제공
 - **Amazon Cognito** :  가입, 로그인, 액세스 제어 기능을 갖춘 인증 관리 서비스, Identity Pool 을 통해 Facebook, Google, Amazon과 같은 소셜 로그인과도 연동이 가능
@@ -64,7 +64,7 @@ Amplify 어드민에 접근 권한을 준다 -> 사용자와 컨텐츠 관리한
 2. 자격 증명 통해 토큰 -> 자격 증명 교환
 3. 자격 증명 통해 s3, dynamodb 등 접근
 
-<img src="C:\Users\yujin\AppData\Roaming\Typora\typora-user-images\image-20210531152053612.png" alt="image-20210531152053612" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/38436013/120157320-e1a5fa00-c22d-11eb-8c1c-3bc97e4ec16b.png" alt="image" style="zoom:67%;" />
 
 #### 
 

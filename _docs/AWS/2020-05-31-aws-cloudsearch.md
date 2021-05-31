@@ -6,6 +6,8 @@ comments: true
 order: 8
 ---
 
+#### What?
+
  웹 사이트 또는 애플리케이션을 위한 검색 솔루션을 효율적인 비용으로 간단하게 설정, 관리 및 조정할 수 있다.
 
 #### 장점
@@ -15,4 +17,4 @@ order: 8
 - 또한, 모든 검색 도메인에 대한 강력한 Auto Scaling 기능을 제공(확장성)
 - 비용 : 직접 검색 환경을 운영하는 것보다 총 소유 비용이 낮다
 
-<img src="C:\Users\yujin\AppData\Roaming\Typora\typora-user-images\image-20210531154509506.png" alt="image-20210531154509506" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/38436013/120159908-abb64500-c230-11eb-9601-3f508af02b8e.png" alt="image" style="zoom:67%;" />
