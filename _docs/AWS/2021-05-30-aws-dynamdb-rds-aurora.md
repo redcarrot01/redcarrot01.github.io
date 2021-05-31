@@ -40,25 +40,21 @@ Key- value 구조를 가진 NoSQL(Not Only SQL) 데이터베이스
 
 #### DynamoDB에서 데이터 읽어오는 방식
 
-1. **Query**
+**Query**
 
 - **Primary Key를 사용**하여 데이터 검색
 - Query사용시 모든 데이터(컬럼) 반환
 - **ProjectionExpression 파라미터**
   우리가 보고 싶은 컬럼만 볼 수 있도록 수정, 일종의 필터링 역할
 
-2. **Scan**
+**Scan**
 
 - 모든 데이터를 불러옴 (**primary key 사용 X**)
-
 - **ProjectionExpression 파라미터**
-
 - 순차적방법 (Sequential)
+- 테이블 크기가 크지 않고 테이블에 primary key의 정의가 필요없을 경우 사용
 
-- 테이블 크기가 상대적으로 크지 않고 테이블에 primary key의 정의가 필요없을 경우 사용
-
-
-3. **Query VS Scan**
+**Query VS Scan**
 
 - Query가 Scan보다 훨씬 효율적이다.
 - Scan은 데이터의 크기 일정하지 않다.
