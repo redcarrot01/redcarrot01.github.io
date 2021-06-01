@@ -20,7 +20,7 @@ order: 2
 
 ![image](https://user-images.githubusercontent.com/38436013/120283044-b981ce00-c2f5-11eb-8970-cde31df4d9db.png)
 
- <tbody>가 추가되었고, 나름의 DOM의 해석이다.
+ "<tbody> "가 추가되었고, 나름의 DOM의 해석이다.
 
 #### 왜 이렇게 하는가?
 
