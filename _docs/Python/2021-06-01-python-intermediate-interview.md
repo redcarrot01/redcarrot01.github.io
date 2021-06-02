@@ -154,10 +154,10 @@ print(list(map(lambda x:x*2, (1,2,4))))
 
 #### 앞으로 참고할 것
 
-http://raccoonyy.github.io/diary-of-changing-job/
+[http://raccoonyy.github.io/diary-of-changing-job/](http://raccoonyy.github.io/diary-of-changing-job/)
 
-https://118k.tistory.com/646
+[https://118k.tistory.com/646](https://118k.tistory.com/646)
 
 #### 참고했습니다.
 
-https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8
+[https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8](https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8)

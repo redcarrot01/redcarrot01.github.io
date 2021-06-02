@@ -13,18 +13,18 @@ order: 1
 아래는 자주 쓰는 명령어만 간단하게 정리했으므로, 자세히 알고 싶다면, 맨 아래의 '[참고했습니다](http://throughkim.kr/2017/01/09/linux-14/#%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94-%EB%82%B4%EC%9A%A9)' 에 링크를 확인해 주세요.
 
 > **파일 시스템**
-> ls , chown, chmod, du, df, free, cat dd, rm, mount, ln, tar, touch, mkdir
-> **검색**
-> find, grep
-> **프로세스**
-> at, cron, kill, nice, ps, top
-> **네트워크**
-> netstat, nslookup, ssh, iptables
-> **텍스트 처리**
-> awk, cut, head/tail, sed, more, vi, wc, split, sort
-> **그 외**
-> usermod, 모듈
-> **패키지 관리자**
+> ls , chown, chmod, du, df, free, cat dd, rm, mount, ln, tar, touch, mkdir  
+> **검색**  
+> find, grep  
+> **프로세스**  
+> at, cron, kill, nice, ps, top  
+> **네트워크 ** 
+> netstat, nslookup, ssh, iptables  
+> **텍스트 처리 ** 
+> awk, cut, head/tail, sed, more, vi, wc, split, sort  
+> **그 외**  
+> usermod, 모듈   
+> **패키지 관리자 **  
 > yum, rpm, apt-get
 
 #### 새로운 파일을 만드는 방법
@@ -157,4 +157,6 @@ chmod -R 654 test :  -R : 하위 디렉토리와 파일의 권한까지 변경
 #### 참고했습니다.[
 [http://throughkim.kr/2017/01/09/linux-14/#grep](http://throughkim.kr/2017/01/09/linux-14/#grep)
 [http://ivis.kr/images/e/e9/2018_Unix_command_vi.pdf](http://ivis.kr/images/e/e9/2018_Unix_command_vi.pdf)
-https://wiseworld.tistory.com/97](https://wiseworld.tistory.com/97)
+
+[https://wiseworld.tistory.com/97](https://wiseworld.tistory.com/97)
+
