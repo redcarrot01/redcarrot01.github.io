@@ -74,7 +74,7 @@ book_list = BookTable.query(author="ychaen")
 - 쿼리셋을 순회하는 시점에, 쿼리셋에 해당하는 DB의 레코드들을 실제로 가져오며 이는 모두 Django 모델로 변환된다.
 
 #### 참고했습니다.
-[https://mungto.tistory.com/302](https://mungto.tistory.com/302)
-[https://changrea.io/jpa/orm/](https://changrea.io/jpa/orm/)
-[https://ychae-leah.tistory.com/137?category=340269](https://ychae-leah.tistory.com/137?category=340269)
-[https://velog.io/@suasue/Django-ORM%EA%B3%BC-QuerySet](https://velog.io/@suasue/Django-ORM%EA%B3%BC-QuerySet)
+- [https://mungto.tistory.com/302](https://mungto.tistory.com/302)
+- [https://changrea.io/jpa/orm/](https://changrea.io/jpa/orm/)
+- [https://ychae-leah.tistory.com/137?category=340269](https://ychae-leah.tistory.com/137?category=340269)
+- [https://velog.io/@suasue/Django-ORM%EA%B3%BC-QuerySet](https://velog.io/@suasue/Django-ORM%EA%B3%BC-QuerySet)
