@@ -33,11 +33,11 @@ requests로 받은 응답은 서버가 최초로 응답하는 코드이며, 페�
 2. HTML Parser 라이브러리 : BeautifulSoup4 ..
 
 
-
 ## Requests
 
 HTML 데이터 받아오는 라이브러리
 requests로 데이터 받아와서 beautifulsoup으로 파싱해준다.
+
 ~~~python
 import requests
 ~~~
@@ -167,8 +167,6 @@ browser.quit() # 브라우저 종료
 
 #### 참고했습니다.
 
-https://greeksharifa.github.io/references/2020/10/30/python-selenium-usage/
-
-https://www.hanumoka.net/2020/07/05/python-20200705-python-selenium-install-start/
-
-https://velog.io/@surim014/AJAX%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80
+- [https://greeksharifa.github.io/references/2020/10/30/python-selenium-usage/](https://greeksharifa.github.io/references/2020/10/30/python-selenium-usage/)
+- [https://www.hanumoka.net/2020/07/05/python-20200705-python-selenium-install-start/](https://www.hanumoka.net/2020/07/05/python-20200705-python-selenium-install-start/)
+- [https://velog.io/@surim014/AJAX%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80](https://velog.io/@surim014/AJAX%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)

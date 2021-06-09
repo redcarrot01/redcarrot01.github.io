@@ -1,5 +1,5 @@
 ---
-title: "Python 중급 지식"
+title: "Python 초급 지식"
 category: Python
 date: 2021-06-01 20:30:05
 comments: true
@@ -8,7 +8,7 @@ order: 1
 
 
 
-## Python 중급 지식
+## Python 초급 지식
 
 #### 1. 파이썬 주요 특징
 
@@ -154,10 +154,9 @@ print(list(map(lambda x:x*2, (1,2,4))))
 
 #### 앞으로 참고할 것
 
-[http://raccoonyy.github.io/diary-of-changing-job/](http://raccoonyy.github.io/diary-of-changing-job/)
-
-[https://118k.tistory.com/646](https://118k.tistory.com/646)
+- [http://raccoonyy.github.io/diary-of-changing-job/](http://raccoonyy.github.io/diary-of-changing-job/)
+- [https://118k.tistory.com/646](https://118k.tistory.com/646)
 
 #### 참고했습니다.
 
-[https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8](https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8)
+- [https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8](https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8)https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8)

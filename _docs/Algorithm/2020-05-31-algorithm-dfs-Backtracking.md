@@ -29,20 +29,14 @@ order: 2
 ## N-Queen 문제 - 백준 9663번
 
 - 백트래킹에서 자주 등장하는 문제
-
 - n*n 안에 n개의 퀸을 배치하는 문제, 퀸들은 자신의 일직선상 및 대각선상에 아무 것도 놓이면 안됨
-
-  
 
 ![image](https://user-images.githubusercontent.com/38436013/112236486-f7be9980-8c83-11eb-91f6-cab97ed6e179.png)
 ![image](https://user-images.githubusercontent.com/38436013/109910090-b1ac9080-7cea-11eb-98cf-bbbecb7616bd.png)
 
 - 입력 : N (1~15)
-
 - 출력 : N개를 서로 공격 못하게 놓는 경우의 수
-
-- SOLVE
-
+- 해결
   일차원 배열 이용하여 해결 가능,  그이유는 퀸의 열 위치가 서로 같게 배치될 수 없기 때문이다(일직선상 배치 못)
 
   ![image](https://user-images.githubusercontent.com/38436013/109910343-3dbeb800-7ceb-11eb-8633-61ace0fec7cd.png)
@@ -96,7 +90,6 @@ int main() {
 }
 
 ~~~
-
 
 
 #### 참고했습니다.

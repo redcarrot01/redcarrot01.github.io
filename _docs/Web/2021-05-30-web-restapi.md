@@ -6,41 +6,37 @@ comments: true
 order: 1
 ---
 
-## What?
+
+
+#### What?
 
 **REST ?** 
 
 - 분산 시스템 설계 위한 아키텍처 스타일로, 
-
 - HTTP **URI**를 통해 **자원**을 표시하고 **HTTP Method**를 통해 자원에 대한 **처리**(CRUD)를 표현
 
 
 **RESTFUL API?**
 
 - REST를 만족하는 API 
-
 - **사람이 읽을 수 있는 API**라는 것이 특징
-
 - HTTP를 사용하기 때문에 **HTTP의 특성을 그대로 반영**
 
 
 **장점**
 
 - 또한 **별도의 인프라 구축이 필요없다**.
-
 - 서버와 클라의 역할 명확하게 분리함(REST 서버는 API 제공, 클라이언트는 세션,로그인 등 관리)
-
 - HTTP 프로토콜 따르는 모든 플랫폼에서 사용 가능
 
 **단점**
 
 - 명확한 표준이 존재하지 않는다
-
 - 사용할 수 있는 메소드가 4가지밖에 없다.(POST, GET, PUT, DELETE)
 
-  
 
-## How? (REST 구성 요소)
+
+#### How? (REST 구성 요소)
 
 **1. 자원 : URI**
 
@@ -49,20 +45,15 @@ order: 1
 - 자원을 구별하는 ID는 ‘/groups/:group_id’와 같은 HTTP URI 다.
 
   > URI (Uniform Resource Identifier) : 자원 식별자
-  >
   > URI의 하위 개념으로 URL(네트워크 주소)이 있다.
   >
   > URL (Uniform Resource Locator)
-  >
   > 예를 들어,
-  >
   > http://opentutorials.org:3000/main?id=HTML&page=12 는 URI인 자원의 식별자
-  >
   > http://opentutorials.org:3000/main 은 URL로 자원의 위치
-  >
   > ?id=HTML&page=12 은 id가 HTML이고 page 정보를 식별함
   >
-  > 
+  
 
 **2. 행위 : HTTP METHOD(POST, GET, PUT, DELETE)**
 
@@ -80,7 +71,7 @@ order: 1
 
   
 
-## Why? (REST가 필요한 이유)
+#### Why? (REST가 필요한 이유)
 
 - 애플리케이션의 분리 및 통합 : REST API 사용하면 서로 다른 모듈 상호간 통신 가능
 
@@ -88,7 +79,7 @@ order: 1
 
   
 
-## HTTP 응답 상태 코드
+#### HTTP 응답 상태 코드
 
 | 200  | 요청 정상 수행                                               |
 | ---- | ------------------------------------------------------------ |
@@ -98,4 +89,3 @@ order: 1
 | 405  | 사용 불가능한 메소드 이용한 경우                             |
 | 301  | 클라가 요청한 URI가 변경 된 경우                             |
 | 500  | 서버에 문제 있는 경우                                        |
-

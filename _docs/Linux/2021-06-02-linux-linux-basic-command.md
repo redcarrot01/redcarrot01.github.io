@@ -152,10 +152,8 @@ chmod -R 654 test :  -R : 하위 디렉토리와 파일의 권한까지 변경
 └───────────── 분 (0 - 59)
 ~~~
 
+#### 참고했습니다.
 
-#### 참고했습니다.[
-[http://throughkim.kr/2017/01/09/linux-14/#grep](http://throughkim.kr/2017/01/09/linux-14/#grep)
-[http://ivis.kr/images/e/e9/2018_Unix_command_vi.pdf](http://ivis.kr/images/e/e9/2018_Unix_command_vi.pdf)
-
-[https://wiseworld.tistory.com/97](https://wiseworld.tistory.com/97)
-
+- [http://throughkim.kr/2017/01/09/linux-14/#grep](http://throughkim.kr/2017/01/09/linux-14/#grep)
+- [http://ivis.kr/images/e/e9/2018_Unix_command_vi.pdf](http://ivis.kr/images/e/e9/2018_Unix_command_vi.pdf)
+- [https://wiseworld.tistory.com/97](https://wiseworld.tistory.com/97)

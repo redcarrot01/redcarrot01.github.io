@@ -19,19 +19,16 @@ order: 6
 #### How? 작동 방식
 
 **개발** : Amplify를 이용하면 full-stack 웹과 모바일의 백엔드를 개발할 수 있다.
-
 Amplify UI나 CLI 통해서 백엔드 설정 -> Amplify 라이브러리를 웹/앱 백엔드와 연결 -> 통합
 
 <img src="https://user-images.githubusercontent.com/38436013/120157472-08fcc700-c22e-11eb-854e-251f185589a5.png" alt="image" style="zoom:67%;" />
 
 **제공** : 정적 페이지 호스팅
-
 amplify 콘솔에 깃에 있는 소스나 파일 업로드 -> 빌드 셋팅 -> amplify 콘솔에서 배포
 
 <img src="https://user-images.githubusercontent.com/38436013/120157499-0e5a1180-c22e-11eb-9044-2be9fb34d821.png" alt="image" style="zoom:67%;" />
 
 **관리** : 사용자와 앱 관리
-
 Amplify 어드민에 접근 권한을 준다 -> 사용자와 컨텐츠 관리한다 
 
 <img src="https://user-images.githubusercontent.com/38436013/120157523-13b75c00-c22e-11eb-85ab-eb2c8bda2b6e.png" alt="image" style="zoom:67%;" />
@@ -54,7 +51,7 @@ Amplify 어드민에 접근 권한을 준다 -> 사용자와 컨텐츠 관리한
 
 #### What? 
 
-웹 / 앱에 대한 인증, 권한 부여 서비스를 제공한다. 인증방법으로는 직접 로그인, 소셜 로그인이 있다. 사용자 풀과 자격 증명 풀 두 가지가 있다. 사용자 풀은 앱 사용자의 가입 및 로그인 옵션을 제공하는 사용자 디렉토리다. 자격 증명 풀은 사용자 액세스 권한을 부여할 수 있다.  프리티어로 무료
+웹 / 앱에 대한 인증, 권한 부여 서비스를 제공한다. 인증방법으로는 직접 로그인, 소셜 로그인이 있다. 사용자 풀과 자격 증명 풀 두 가지가 있다. 사용자 풀은 앱 사용자의 가입 및 로그인 옵션을 제공하는 사용자 디렉토리다. 자격 증명 풀은 사용자 액세스 권한을 부여할 수 있다.  프리티어로 무료다.
 
 #### How? 동작 방식
 
@@ -66,12 +63,10 @@ Amplify 어드민에 접근 권한을 준다 -> 사용자와 컨텐츠 관리한
 
 <img src="https://user-images.githubusercontent.com/38436013/120157320-e1a5fa00-c22d-11eb-8c1c-3bc97e4ec16b.png" alt="image" style="zoom:67%;" />
 
-#### 
+
 
 #### 참고했습니다.
 
-[https://aws.amazon.com/ko/amplify/](https://aws.amazon.com/ko/amplify/)
-
-[https://dev.classmethod.jp/articles/amplify-android-cognito-auth/](https://dev.classmethod.jp/articles/amplify-android-cognito-auth/)
-
-[https://docs.aws.amazon.com/ko_kr/cognito/latest/developerguide/what-is-amazon-cognito.html](
+- [https://aws.amazon.com/ko/amplify/](https://aws.amazon.com/ko/amplify/)
+- [https://dev.classmethod.jp/articles/amplify-android-cognito-auth/](https://dev.classmethod.jp/articles/amplify-android-cognito-auth/)
+- [https://docs.aws.amazon.com/ko_kr/cognito/latest/developerguide/what-is-amazon-cognito.html](https://docs.aws.amazon.com/ko_kr/cognito/latest/developerguide/what-is-amazon-cognito.html)
