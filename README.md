@@ -1,4 +1,4 @@
-## Commit Rule
+Commit Rule
 
 * __File Name Rule :__ 날짜-주제-제목
   + __ex) 2021-05-25-web-server-and-was__
@@ -18,7 +18,6 @@
 ## To do list
 
 - 댓글달기..(disqus html, config 등등 수정해야함)
-- 다른 포스트 다 삭제 & 내 포스트 넣기
-- 당근저장소 이름 변경 및 글자색 바꾸기
 - 이것저것 커스텀 하기
 - 메인화면 소개글 첨부 
+
