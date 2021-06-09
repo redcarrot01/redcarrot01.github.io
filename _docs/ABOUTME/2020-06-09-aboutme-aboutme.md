@@ -1,6 +1,6 @@
 ---
 title: "About me"
-category: About
+category: ABOUTME
 date: 2020-06-09 21:01:47
 comments: true
 order: 1
