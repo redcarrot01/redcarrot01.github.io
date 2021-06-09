@@ -8,8 +8,6 @@ order: 1
 
 
 
-## Python 초급 지식
-
 #### 1. 파이썬 주요 특징
 
 인터프리터 언어, 동적 타이핑 언어, 객체 지향 언어, 심지어 간결함
@@ -159,4 +157,4 @@ print(list(map(lambda x:x*2, (1,2,4))))
 
 #### 참고했습니다.
 
-- [https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8](https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8)https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8)
+- [https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8](https://dingrr.com/blog/post/python-python-%EB%A9%B4%EC%A0%91-%EC%98%88%EC%A0%9C-1%ED%8E%B8)
